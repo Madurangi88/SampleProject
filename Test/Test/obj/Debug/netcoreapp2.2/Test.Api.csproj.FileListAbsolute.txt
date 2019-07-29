@@ -1,0 +1,57 @@
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.deps.json
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.runtimeconfig.json
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.runtimeconfig.dev.json
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.pdb
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Business.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Data.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Data.pdb
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csprojAssemblyReference.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorAssemblyInfo.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorAssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.AssemblyInfoInputs.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.AssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csproj.CopyComplete
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.deps.json
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.runtimeconfig.json
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.runtimeconfig.dev.json
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Business.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Data.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\bin\Debug\netcoreapp2.2\Test.Data.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csprojAssemblyReference.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorAssemblyInfo.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorAssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.AssemblyInfoInputs.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.AssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csproj.CopyComplete
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.deps.json
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.runtimeconfig.json
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.runtimeconfig.dev.json
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Api.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Business.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Data.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\bin\Debug\netcoreapp2.2\Test.Data.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csprojAssemblyReference.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csproj.CoreCompileInputs.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorAssemblyInfo.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorAssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.AssemblyInfoInputs.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.AssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.csproj.CopyComplete
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test\obj\Debug\netcoreapp2.2\Test.Api.pdb

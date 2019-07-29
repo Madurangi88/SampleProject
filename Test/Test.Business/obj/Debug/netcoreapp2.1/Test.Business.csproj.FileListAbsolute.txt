@@ -1,0 +1,44 @@
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.deps.json
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Data.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Data.pdb
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csprojAssemblyReference.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.AssemblyInfoInputs.cache
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.AssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csproj.CopyComplete
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.dll
+C:\Users\Lakshitha\Desktop\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.deps.json
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Data.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Data.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csprojAssemblyReference.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.AssemblyInfoInputs.cache
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.AssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csproj.CopyComplete
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Lakshitha\Desktop\Documents\test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.deps.json
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Data.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Test.Data.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csprojAssemblyReference.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.AssemblyInfoInputs.cache
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.AssemblyInfo.cs
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.csproj.CopyComplete
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\obj\Debug\netcoreapp2.1\Test.Business.pdb
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Lakshitha\Desktop\Practicle Test\Test\Test.Business\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.SqlServer.xml
